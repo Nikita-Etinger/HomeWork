@@ -1,2 +1,2 @@
 # HomeWork
-for home Work
+Для домашней работы 
